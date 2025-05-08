@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naledi</h1>
 <h3 align="center">A software engineering graduate from Gauteng, South Africa</h3>
 
-- 🔭 I’m currently working on **Beeper**
+- 🔭 I’m currently working on **VersaBlog**
 
 - 🌱 I’m currently learning **NodeJs**
 
